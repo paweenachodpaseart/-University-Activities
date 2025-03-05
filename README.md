@@ -10,8 +10,8 @@ Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of 
 
 <div id="header" align="center">
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20185233.png?raw=true"width="300"/>
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20185152.png?raw=true"width="290"/>
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20190139.png?raw=true"width="305"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20185152.png?raw=true"width="280"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20190139.png?raw=true"width="310"/>
 </div>
 - 🚀 Innovation Challenge: "What is Innovation and How is it Created?" (Feb 3-4, 2024)
 Participated in a workshop on innovation and Design Thinking, led by Dr. Poramet Chumyim, Senior Advisor at Food Innovation City, NSTDA.
