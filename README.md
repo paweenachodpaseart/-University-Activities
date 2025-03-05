@@ -26,15 +26,25 @@ Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of 
  <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/1044761fe1f2c63ab502a4a1cc9aab4c0370b587/Screenshot%202025-03-05%20191121.png"width="300"/>
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191140.png?raw=true"width="300"/>
 </div>
+
+📊 Field Trip to Thipya Insurance Public Company Limited (Sep 13, 2024)
+Explored the general insurance field and gained hands-on experience in data-related roles, deepening the understanding of the role of data in the insurance industry.
+
+---
+
+<div id="header" align="center">
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191204.png?raw=true"width="300"/>
+ <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/1044761fe1f2c63ab502a4a1cc9aab4c0370b587/Screenshot%202025-03-05%20191121.png"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191140.png?raw=true"width="300"/>
+</div>
 - 🎨 Infographic Design Workshop (Sep 4 & 11, 2023)
 Attended a training session on infographic creation and design for Data Visualization, led by Sasithorn Rittidech from Burapha University’s Computer Center.
 
 ---
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20205214.png?raw=true"width="300"/>
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20205305.png?raw=true"width="302"/>
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20205242.png?raw=true"width="290"/>
+ <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211002.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211041.png?raw=true"width="302"/>
 </div>
 
 - 🎤 Public Speaking & Personality Development (Jan 31, 2024)
