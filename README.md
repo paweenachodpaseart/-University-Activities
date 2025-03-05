@@ -9,8 +9,8 @@
 Participated in a workshop on innovation and Design Thinking, led by Dr. Poramet Chumyim, Senior Advisor at Food Innovation City, NSTDA.
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20185233.png?raw=true"width="280"/>
- <img src="https://github.com/paweenachodpaseart/Activities/blob/main/DSCF0300.JPG?raw=true"width="330"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20185233.png?raw=true"width="290"/>
+ <img src="https://github.com/paweenachodpaseart/Activities/blob/main/DSCF0300.JPG?raw=true"width="320"/>
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20190139.png?raw=true"width="305"/>
 </div>
 
