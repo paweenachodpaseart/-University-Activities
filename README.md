@@ -19,7 +19,7 @@ Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of 
 
 <div id="header" align="center">
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191204.png?raw=true"width="300"/>
- <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/1044761fe1f2c63ab502a4a1cc9aab4c0370b587/Screenshot%202025-03-05%20191121.png"width="305"/>
+ <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/1044761fe1f2c63ab502a4a1cc9aab4c0370b587/Screenshot%202025-03-05%20191121.png"width="300"/>
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191140.png?raw=true"width="300"/>
 </div>
 - 🎨 Infographic Design Workshop (Sep 4 & 11, 2023)
