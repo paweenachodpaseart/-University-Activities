@@ -1,5 +1,8 @@
 # University-Activities
-<img src="https://github.com/paweenachodpaseart/University-Activities/commit/b994755b9f3b2b39ba000f801ddd27bcfde451e7"/>
+<div id="header" align="center">
+ <img src="https://github.com/paweenachodpaseart/University-Activities/commit/b994755b9f3b2b39ba000f801ddd27bcfde451e7"/>
+</div>
+
 - 🤖 AI Chatbot Workshop (Sep 9-10, 2023)
 Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of BOTNOI Group, and his team.
 
