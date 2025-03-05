@@ -18,7 +18,7 @@ Participated in a workshop on innovation and Design Thinking, led by Dr. Poramet
 Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of BOTNOI Group, and his team.
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191204.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191204.png?raw=true"width="290"/>
  <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/1044761fe1f2c63ab502a4a1cc9aab4c0370b587/Screenshot%202025-03-05%20191121.png"width="285"/>
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191140.png?raw=true"width="305"/>
 </div>
