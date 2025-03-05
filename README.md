@@ -1,6 +1,6 @@
 # University-Activities
 
-##🎓 University Activities
+## 🎓 University Activities
 - 🤖 AI Chatbot Workshop (Sep 9-10, 2023)
 Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of BOTNOI Group, and his team.
 
