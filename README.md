@@ -43,8 +43,8 @@ Attended a training session on infographic creation and design for Data Visualiz
 ---
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211002.png?raw=true"width="310"/>
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211041.png?raw=true"width="280"/>
+ <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211002.png?raw=true"width="320"/>
+ <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211041.png?raw=true"width="270"/>
 </div>
 
 - 🎤 Public Speaking & Personality Development (Jan 31, 2024)
