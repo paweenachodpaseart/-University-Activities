@@ -1,7 +1,8 @@
 # University-Activities
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20181557.png?raw=true"width="300"/>
- <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/b994755b9f3b2b39ba000f801ddd27bcfde451e7/Screenshot%202025-03-05%20182647.png"width="250"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20181557.png?raw=true"width="400"/>
+ <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/b994755b9f3b2b39ba000f801ddd27bcfde451e7/Screenshot%202025-03-05%20182647.png"width="380"/>
+  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20184343.png?raw=true"width="400"/>
 </div>
 
 - 🤖 AI Chatbot Workshop (Sep 9-10, 2023)
