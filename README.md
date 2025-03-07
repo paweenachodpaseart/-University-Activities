@@ -11,9 +11,9 @@ Participated in a workshop on innovation and Design Thinking, led by Dr. Poramet
 ---
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20185233.png?raw=true"width="300"/>
- <img src="https://github.com/paweenachodpaseart/Activities/blob/main/DSCF0300.JPG?raw=true"width="320"/>
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20190139.png?raw=true"width="305"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/AI%20Chatbot%20Workshop1.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/AI%20Chatbot%20Workshop2.JPG?raw=true"width="320"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/AI%20Chatbot%20Workshop.png?raw=true"width="305"/>
 </div>
 
 - 🤖 AI Chatbot Workshop (Sep 9-10, 2023)
