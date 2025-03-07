@@ -1,8 +1,8 @@
 # 🎓 University-Activities
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20181557.png?raw=true"width="320"/>
- <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/b994755b9f3b2b39ba000f801ddd27bcfde451e7/Screenshot%202025-03-05%20182647.png"width="290"/>
-  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20184343.png?raw=true"width="295"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge1.png?raw=true"width="320"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge2.png?raw=true"width="290"/>
+  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge3.png?raw=true"width="295"/>
 </div>
 
 - 🚀 Innovation Challenge: "What is Innovation and How is it Created?" (Feb 3-4, 2024)
