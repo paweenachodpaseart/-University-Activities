@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/899956d7-8a83-4d16-9a69-50ac49f4e7cd)# 🎓 University-Activities
+# 🎓 University-Activities
 <div id="header" align="center">
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge1.png?raw=true"width="320"/>
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge2.png?raw=true"width="290"/>
@@ -42,9 +42,9 @@ Attended a training session on infographic creation and design for Data Visualiz
 ---
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20205214.png?raw=true"width="300"/>
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20205305.png?raw=true"width="300"/>
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20205242.png?raw=true"width="292"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Public%20Speaking%20&%20Personality%20Development%201.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Public%20Speaking%20&%20Personality%20Development%202.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Public%20Speaking%20&%20Personality%20Development%203.png?raw=true"width="292"/>
 </div>
 
 - 🎤 Public Speaking & Personality Development (Jan 31, 2024)
