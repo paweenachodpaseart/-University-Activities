@@ -22,8 +22,8 @@ Hands-on training on building AI chatbots with Dr. Winn Worawutkunachai, CEO of 
 ---
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211002.png?raw=true"width="320"/>
- <img src="https://github.com/paweenachodpaseart/-University-Activities/blob/main/Screenshot%202025-03-05%20211041.png?raw=true"width="270"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Thipya1.png?raw=true"width="320"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Thipya2.png?raw=true"width="270"/>
 </div>
 
 📊 Field Trip to Thipya Insurance Public Company Limited (Sep 13, 2024)
