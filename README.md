@@ -1,4 +1,4 @@
-# 🎓 University-Activities
+![image](https://github.com/user-attachments/assets/899956d7-8a83-4d16-9a69-50ac49f4e7cd)# 🎓 University-Activities
 <div id="header" align="center">
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge1.png?raw=true"width="320"/>
  <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Innovation%20Challenge2.png?raw=true"width="290"/>
@@ -32,9 +32,9 @@ Explored the general insurance field and gained hands-on experience in data-rela
 ---
 
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191204.png?raw=true"width="300"/>
- <img src="https://raw.githubusercontent.com/paweenachodpaseart/University-Activities/1044761fe1f2c63ab502a4a1cc9aab4c0370b587/Screenshot%202025-03-05%20191121.png"width="300"/>
- <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Screenshot%202025-03-05%20191140.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Infographic%20Design%20Workshop1.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Infographic%20Design%20Workshop2.png?raw=true"width="300"/>
+ <img src="https://github.com/paweenachodpaseart/University-Activities/blob/main/Infographic%20Design%20Workshop3.png?raw=true"width="300"/>
 </div>
 - 🎨 Infographic Design Workshop (Sep 4 & 11, 2023)
 Attended a training session on infographic creation and design for Data Visualization, led by Sasithorn Rittidech from Burapha University’s Computer Center.
